@@ -1,6 +1,6 @@
 # Assignment1 - Pine Chapter 2 Questions
 
-To accept this assignment: https://classroom.github.com/a/tnqagiLp
+To accept this assignment: https://classroom.github.com/a/h5ElbbIg
 
 These questions correspond to chapter 2 of the Pine Python Manual
 
